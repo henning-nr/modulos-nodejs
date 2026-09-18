@@ -1,0 +1,25 @@
+{
+  "name": "modulos-nodejs",
+  "version": "1.0.0",
+  "description": "Aplicação de exemplo de uso de módulos com NodeJS",
+  "main": "igreja.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henning-nr/modulos-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/henning-nr/modulos-nodejs/issues"
+  },
+  "homepage": "https://github.com/henning-nr/modulos-nodejs#readme",
+  "dependencies": {
+    "cpf-cnpj-validator": "^2.1.2",
+    "validar-cpf": "^3.1.1"
+  }
+}
